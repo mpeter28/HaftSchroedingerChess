@@ -1,8 +1,8 @@
-package com.antumbrastation.phantomchess.board.moves;
+package com.antumbrastation.schrodingerchess.board.moves;
 
-import com.antumbrastation.phantomchess.board.ChessPiece;
-import com.antumbrastation.phantomchess.board.PhantomChessState;
-import com.antumbrastation.phantomchess.csp.StateRestraint;
+import com.antumbrastation.schrodingerchess.board.ChessPiece;
+import com.antumbrastation.schrodingerchess.board.PhantomChessState;
+import com.antumbrastation.schrodingerchess.csp.StateRestraint;
 
 public class PromotePawn extends BaseMove {
 

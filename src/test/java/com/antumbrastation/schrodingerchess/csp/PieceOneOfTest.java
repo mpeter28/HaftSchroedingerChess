@@ -1,6 +1,6 @@
-package com.antumbrastation.phantomchess.csp;
+package com.antumbrastation.schrodingerchess.csp;
 
-import com.antumbrastation.phantomchess.board.PieceType;
+import com.antumbrastation.schrodingerchess.board.PieceType;
 import org.junit.Assert;
 import org.junit.Test;
 

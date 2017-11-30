@@ -1,11 +1,11 @@
-package com.antumbrastation.phantomchess.board;
+package com.antumbrastation.schrodingerchess.board;
 
-import com.antumbrastation.phantomchess.board.moves.CapturePiece;
-import com.antumbrastation.phantomchess.board.moves.MovePiece;
-import com.antumbrastation.phantomchess.csp.AndConstraint;
-import com.antumbrastation.phantomchess.csp.PieceOneOf;
-import com.antumbrastation.phantomchess.csp.RestraintUtils;
-import com.antumbrastation.phantomchess.csp.StateRestraint;
+import com.antumbrastation.schrodingerchess.board.moves.CapturePiece;
+import com.antumbrastation.schrodingerchess.board.moves.MovePiece;
+import com.antumbrastation.schrodingerchess.csp.AndConstraint;
+import com.antumbrastation.schrodingerchess.csp.PieceOneOf;
+import com.antumbrastation.schrodingerchess.csp.RestraintUtils;
+import com.antumbrastation.schrodingerchess.csp.StateRestraint;
 
 import java.util.LinkedList;
 import java.util.List;

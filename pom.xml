@@ -1,7 +1,7 @@
 <project>
     <modelVersion>4.0.0</modelVersion>
-    <groupId>com.antumbrastation.phantomchess</groupId>
-    <artifactId>PhantomChess</artifactId>
+    <groupId>com.antumbrastation.schrodingerchess</groupId>
+    <artifactId>HaftSchrodingerChess</artifactId>
     <version>DEV-SNAPSHOT</version>
 
     <name>Phantom Chess</name>

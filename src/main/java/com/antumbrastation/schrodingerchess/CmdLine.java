@@ -1,9 +1,9 @@
-package com.antumbrastation.phantomchess;
+package com.antumbrastation.schrodingerchess;
 
-import com.antumbrastation.phantomchess.board.ChessPiece;
-import com.antumbrastation.phantomchess.board.PhantomChessMove;
-import com.antumbrastation.phantomchess.board.PhantomChessState;
-import com.antumbrastation.phantomchess.csp.TeamRosterRules;
+import com.antumbrastation.schrodingerchess.board.ChessPiece;
+import com.antumbrastation.schrodingerchess.board.PhantomChessMove;
+import com.antumbrastation.schrodingerchess.board.PhantomChessState;
+import com.antumbrastation.schrodingerchess.csp.TeamRosterRules;
 
 import java.util.LinkedList;
 import java.util.List;

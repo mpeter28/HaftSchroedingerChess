@@ -1,4 +1,4 @@
-package com.antumbrastation.phantomchess.board;
+package com.antumbrastation.schrodingerchess.board;
 
 public interface PhantomChessMove {
 
